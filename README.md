@@ -87,23 +87,24 @@ print('RMSE = ',rmse)
 ```
 ## Output:
 1.df.head():<br>
-![Screenshot (1)](https://user-images.githubusercontent.com/104640337/230721056-d704008e-d926-41e7-a5d4-28b4874c147c.png)<br>
+![ex-2,1](https://user-images.githubusercontent.com/104640337/230722355-50d6c8df-1e3f-4b47-a516-c63943c4849d.png)<br>
 2.df.tail():<br>
-![Screenshot (2)](https://user-images.githubusercontent.com/104640337/230721075-db7e183d-c577-41d4-b641-a232d15f7518.png)<br>
+![ex-2,2](https://user-images.githubusercontent.com/104640337/230722376-d85fa375-500c-4591-af1a-97bed4437c3b.png)<br>
 3.Array value of X:<br>
-![Screenshot (3)](https://user-images.githubusercontent.com/104640337/230721092-5c8f3ee1-806d-4fe4-8c74-d74b65fda87e.png)<br>
+![ex-2,3](https://user-images.githubusercontent.com/104640337/230722382-b78a0472-c580-4dad-b380-2acaba052143.png)<br>
 4.Array value of Y:<br>
-![Screenshot (4)](https://user-images.githubusercontent.com/104640337/230721096-a92f9802-b313-4bf1-98a1-31ed5da81e70.png)<br>
+![ex-2,4](https://user-images.githubusercontent.com/104640337/230722385-d8e49475-79a7-4d5a-8eec-45b91e640514.png)<br>
 5.Values of Y prediction:<br>
-![Screenshot (5)](https://user-images.githubusercontent.com/104640337/230721098-1500c521-6cd4-4ba5-9dd3-8a58b04b8891.png)<br>
+![ex-2,5](https://user-images.githubusercontent.com/104640337/230722395-eca4f828-d973-4214-9223-5cca60b14cd2.png)<br>
 6.Array values of Y:<br>
-![Screenshot (6)](https://user-images.githubusercontent.com/104640337/230721103-7eb45847-66e8-4b57-b3b5-55752b4b78ef.png)<br>
+![ex-2,6](https://user-images.githubusercontent.com/104640337/230722402-d975abf6-09d2-46c8-93f6-b2efb0c09903.png)<br>
 7.Training set Graph:<br>
-![Screenshot (7)](https://user-images.githubusercontent.com/104640337/230721107-6a05f8da-11bb-4d29-91e1-32c76a814b97.png)<br>
+![ex-2,8](https://user-images.githubusercontent.com/104640337/230722406-322b66e7-b86b-401f-bcfc-466a94afd1d3.png)<br>
 8.Test set Graph:<br>
-![Screenshot (8)](https://user-images.githubusercontent.com/104640337/230721112-f9b53dda-e874-41c9-9c47-9196aa64f5e0.png)<br>
+![ex-2,9](https://user-images.githubusercontent.com/104640337/230722409-52191baf-6b2b-4c59-af8d-d1041e0e0f98.png)<br>
 9.Values of MSE, MAE and RMSE:<br>
-![Screenshot (9)](https://user-images.githubusercontent.com/104640337/230721146-7478a6a2-5f51-4cb0-b29d-5c6a3ca4dae1.png)
+![ex-2,10](https://user-images.githubusercontent.com/104640337/230722416-2c44d6e5-c34c-486e-a249-5bccfff5c90b.png)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
