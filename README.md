@@ -85,7 +85,6 @@ print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print('RMSE = ',rmse)
 ```
-
 ## Output:
 1.df.head():<br>
 ![Screenshot (1)](https://user-images.githubusercontent.com/104640337/230721056-d704008e-d926-41e7-a5d4-28b4874c147c.png)<br>
